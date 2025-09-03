@@ -1,6 +1,4 @@
-![xampp](https://github.com/user-attachments/assets/aa31ce95-f65b-47b6-8924-faa212dcf884)
-[view.php](https://github.com/user-attachments/files/22127505/view.php)
-[process.php](https://github.com/user-attachments/files/22127502/process.php)
-[index.php](https://github.com/user-attachments/files/22127501/index.php)
-![home interface](https://github.com/user-attachments/assets/430467e0-9c45-4e12-9dde-b001529f5f16)
-![display of all registered students](https://github.com/user-attachments/assets/8ebeebff-bc17-4ccf-aff6-c2f39a879447)
+Francis Samuel Enya
+23/csc/119
+csc 282
+student registration system
